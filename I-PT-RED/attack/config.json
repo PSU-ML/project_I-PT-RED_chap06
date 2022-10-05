@@ -1,0 +1,7 @@
+{
+  "SC": 8,
+  "TC": 4,
+  "BD_NUM": 500,
+  "PATTERN_TYPE": "pixel",
+  "PERTURBATION_SIZE": 0.2
+}
